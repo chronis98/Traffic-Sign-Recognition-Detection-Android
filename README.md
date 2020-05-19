@@ -17,4 +17,4 @@ tflite model        |  Labels
 
 *tflite_convert / --output_file=square.tflite / --graph_def_file=training2\tflite_graph.pb / --output_foprmat=TFLITE / --input_shapes=1,300,300,3 / --input_arrays=image_tensor / --output_arrays=TFLite_Detection_PostProcess,TFLite_Detection_PostProcess:1,TFLite_Detection_PostProcess:2,TFLite_Detection_PostProcess:3 / --inference_type=QUANTIZED_UINT8 / --default_ranges_min=0 / --default_ranges_max=6 / --mean_values=128 / --std_dev_values=127 / --change_concat_input_ranges=false / --allow_custom_ops*
 
-# Results
+
