@@ -2,6 +2,7 @@
 Following [Previous Traffic-Sign-Recognition-Detection project](https://github.com/chronis98/Traffic-Sign-Recognition-Detection) , this is an approach of deploying and using Tensorflow Deep Learning models on android devices on camera road footage.
 # Implementation
 Configuration of [Tensorflow Lite android example source code](https://github.com/chronis98/Traffic-Sign-Recognition-Detection), in order to host and use two tensorflow Lite models plus, some modification on UI for displaying classified image.
+
 tflite model        |  Labels
 1. *square.tflite      labels.txt
 2. *detection.tflite   labels2.txt
