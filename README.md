@@ -4,8 +4,8 @@ Following [Previous Traffic-Sign-Recognition-Detection project](https://github.c
 Configuration of [Tensorflow Lite android example source code](https://github.com/chronis98/Traffic-Sign-Recognition-Detection), in order to host and use two tensorflow Lite models.Modification on UI was used for displaying classified image.
 
 tflite model        |  Labels
-1. *square.tflite      labels.txt
-2. *detection.tflite   labels2.txt
+1. *square.tflite      labels.txt*
+2. *detection.tflite   labels2.txt*
 
 ## Graphs
 ### Creating necessary graphs, specialized for Tensorflow Lite conversion-
