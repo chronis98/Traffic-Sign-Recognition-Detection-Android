@@ -19,4 +19,4 @@ Configuration of [Tensorflow Lite android example source code](https://github.co
 
 ## Results-
 ![](https://github.com/chronis98/Traffic-Sign-Recognition-Detection-Android/blob/master/giphy.gif "asd")
-<img src="https://github.com/chronis98/Traffic-Sign-Recognition-Detection-Android/blob/master/giphy.gif" width="40" height="40" />
+![](https://github.com/chronis98/Traffic-Sign-Recognition-Detection-Android/blob/master/giphy2.gif "asd")
